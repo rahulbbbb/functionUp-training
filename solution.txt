@@ -1,0 +1,1 @@
+The "git restore filename" command restores the changes made to the file in the working directory to the state they were in the last commit. The "git restore --staged filename" command restores the changes made to the file in the staging area to the state they were in the last commit.
